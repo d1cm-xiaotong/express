@@ -1,11 +1,11 @@
 {
-    "name": "flex/express",
+    "name": "d1cm/express",
     "description": "支持快递鸟、快递100的快递查询SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "Flex",
-            "email": "2345@mail.com"
+            "name": "d1cm-xuxt",
+            "email": "xuxt@d1cm.com"
         }
     ],
     "require": {
